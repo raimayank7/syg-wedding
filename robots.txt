@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wedding.shareyourgroup.com/sitemap.xml
